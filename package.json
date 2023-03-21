@@ -68,7 +68,7 @@
     "universal-cookie": "^4.0.4"
   },
   "devDependencies": {
-    "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
+    "@wizswap-libs/eslint-config-pancake": "1.0.0",
     "@types/jest": "^26.0.20",
     "@types/testing-library__cypress": "^5.0.8",
     "cypress": "^4.11.0",
